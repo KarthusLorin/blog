@@ -2,9 +2,17 @@
 
 ## 博文
 
+### Vue
+
+[浅谈 Vue 中的 scoped 及穿透方法](https://github.com/KarthusLorin/blog/issues/3) (2018)
+
 ### JavaScript
 
-[浅谈JS变量声明和函数声明提升](https://github.com/KarthusLorin/blog/issues/2) (2018)
+[浅谈 JS 严格模式](https://github.com/KarthusLorin/blog/issues/5) (2018)
+
+[浅谈 JS 自记忆函数](https://github.com/KarthusLorin/blog/issues/4) (2018)
+
+[浅谈 JS 变量声明和函数声明提升](https://github.com/KarthusLorin/blog/issues/2) (2018)
 
 ### 杂谈
 
@@ -15,6 +23,7 @@
 - Vue 模板解析模块源码解析
 - Vue-cli3 源码解析
 - JavaScript 设计模式
+- JavaScript 基础
 - 前端自动化测试
 
 ## 别的据点
