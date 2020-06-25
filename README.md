@@ -2,9 +2,20 @@
 
 ## 博文
 
-[写博客的初心](https://github.com/KarthusLorin/blog/issues/1)
+### JavaScript
 
+[浅谈JS变量声明和函数声明提升](https://github.com/KarthusLorin/blog/issues/2) (2018)
 
+### 杂谈
+
+[写博客的初心](https://github.com/KarthusLorin/blog/issues/1) (2020)
+
+## 写作计划（暂定）
+
+- Vue 模板解析模块源码解析
+- Vue-cli3 源码解析
+- JavaScript 设计模式
+- 前端自动化测试
 
 ## 别的据点
 
