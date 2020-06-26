@@ -8,7 +8,7 @@
 
 ### JavaScript
 
-[浅谈 js 中的 history 对象以及路由插件原理](https://github.com/KarthusLorin/blog/issues/6) (2018)
+[浅谈 JS 中的 history 对象以及路由插件原理](https://github.com/KarthusLorin/blog/issues/6) (2018)
 
 [浅谈 JS 严格模式](https://github.com/KarthusLorin/blog/issues/5) (2018)
 
