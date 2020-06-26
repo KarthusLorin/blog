@@ -8,15 +8,23 @@
 
 ### JavaScript
 
+[浅谈 js 中的 history 对象以及路由插件原理](https://github.com/KarthusLorin/blog/issues/6) (2018)
+
 [浅谈 JS 严格模式](https://github.com/KarthusLorin/blog/issues/5) (2018)
 
 [浅谈 JS 自记忆函数](https://github.com/KarthusLorin/blog/issues/4) (2018)
 
 [浅谈 JS 变量声明和函数声明提升](https://github.com/KarthusLorin/blog/issues/2) (2018)
 
-### 杂谈
+### 计算机网络
+
+[浅谈 CORS](https://github.com/KarthusLorin/blog/issues/7) (2018)
+
+### 杂项
 
 [写博客的初心](https://github.com/KarthusLorin/blog/issues/1) (2020)
+
+[浅谈小程序中的请求封装](https://github.com/KarthusLorin/blog/issues/8) (2018)
 
 ## 写作计划（暂定）
 
