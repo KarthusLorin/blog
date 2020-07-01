@@ -34,6 +34,8 @@
 
 [写博客的初心](https://github.com/KarthusLorin/blog/issues/1) (2020)
 
+[console 调试技巧](https://github.com/KarthusLorin/blog/issues/13) (2019)
+
 [浅谈小程序中的请求封装](https://github.com/KarthusLorin/blog/issues/8) (2018)
 
 ## 写作计划（暂定）
