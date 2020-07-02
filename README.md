@@ -34,6 +34,8 @@
 
 [写博客的初心](https://github.com/KarthusLorin/blog/issues/1) (2020)
 
+[Chrome 性能监测](https://github.com/KarthusLorin/blog/issues/14) (2019)
+
 [console 调试技巧](https://github.com/KarthusLorin/blog/issues/13) (2019)
 
 [浅谈小程序中的请求封装](https://github.com/KarthusLorin/blog/issues/8) (2018)
@@ -53,6 +55,10 @@
 [我的掘金地址](https://juejin.im/user/5977438551882548c8364bb4/posts)
 
 ## 碎语
+
+- 2020-07-02
+
+  要培养自己的画图总结能力
 
 - 2020-07-01
 
