@@ -4,6 +4,8 @@
 
 ### Vue
 
+[聊聊 Vue 中 title 的动态修改](https://github.com/KarthusLorin/blog/issues/15) (2019)
+
 [Vue 源码解析之数组变异](https://github.com/KarthusLorin/blog/issues/10) (2018)
 
 [Vue 源码解析之 nextTick](https://github.com/KarthusLorin/blog/issues/9) (2018)
