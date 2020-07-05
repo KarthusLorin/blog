@@ -4,6 +4,10 @@
 
 ### Vue
 
+[ElementUI 源码简析——源码结构篇](https://github.com/KarthusLorin/blog/issues/17) (2019)
+
+[ElementUI 源码简析—— Basic 篇](https://github.com/KarthusLorin/blog/issues/16) (2019)
+
 [聊聊 Vue 中 title 的动态修改](https://github.com/KarthusLorin/blog/issues/15) (2019)
 
 [Vue 源码解析之数组变异](https://github.com/KarthusLorin/blog/issues/10) (2018)
@@ -56,7 +60,11 @@
 
 [我的掘金地址](https://juejin.im/user/5977438551882548c8364bb4/posts)
 
-## 碎语
+## 碎碎念
+
+- 2020-07-05
+
+  还是自己在家烧饭价廉物美~
 
 - 2020-07-02
 
