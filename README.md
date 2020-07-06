@@ -4,6 +4,8 @@
 
 ### Vue
 
+[聊聊 Vue 中 axios 的封装](https://github.com/KarthusLorin/blog/issues/18) (2019)
+
 [ElementUI 源码简析——源码结构篇](https://github.com/KarthusLorin/blog/issues/17) (2019)
 
 [ElementUI 源码简析—— Basic 篇](https://github.com/KarthusLorin/blog/issues/16) (2019)
@@ -100,4 +102,4 @@
 
 - 2020-06-13 
 
-  从今天开始，记录下自己的小声 bb
+  从今天开始，记录下自己的碎碎念
