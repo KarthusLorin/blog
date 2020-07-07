@@ -4,6 +4,8 @@
 
 ### Vue
 
+[聊聊 Vue 中 provide/inject 的应用](https://github.com/KarthusLorin/blog/issues/19) (2019)
+
 [聊聊 Vue 中 axios 的封装](https://github.com/KarthusLorin/blog/issues/18) (2019)
 
 [ElementUI 源码简析——源码结构篇](https://github.com/KarthusLorin/blog/issues/17) (2019)
