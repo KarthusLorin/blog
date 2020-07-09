@@ -32,6 +32,10 @@
 
 [浅谈 JS 变量声明和函数声明提升](https://github.com/KarthusLorin/blog/issues/2) (2018)
 
+### TypeScript
+
+[聊聊 TypeScript 中的类型保护](https://github.com/KarthusLorin/blog/issues/20) (2020)
+
 ### 前端自动化测试
 
 [[译]重新思考单元测试断言](https://github.com/KarthusLorin/blog/issues/12) (2019)
@@ -66,9 +70,9 @@
 
 ## 碎碎念
 
-- 2020-07-05
+- 2020-07-09
 
-  还是自己在家烧饭价廉物美~
+  正则表达式的原理就是有限状态机
 
 - 2020-07-02
 
