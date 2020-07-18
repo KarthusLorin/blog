@@ -38,6 +38,8 @@
 
 ### 前端自动化测试
 
+[从一次故障聊聊前端 UI 自动化测试](https://github.com/KarthusLorin/blog/issues/21) (2020)
+
 [[译]重新思考单元测试断言](https://github.com/KarthusLorin/blog/issues/12) (2019)
 
 ### 计算机网络
@@ -58,9 +60,9 @@
 
 - Vue 模板解析模块源码解析
 - Vue-cli3 源码解析
-- JavaScript 设计模式
+- JavaScript 设计模式（写作中）
 - JavaScript 基础
-- 前端自动化测试
+- 前端自动化测试（完成进度 50%）
 
 ## 别的据点
 
