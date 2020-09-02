@@ -42,6 +42,10 @@
 
 [[译]重新思考单元测试断言](https://github.com/KarthusLorin/blog/issues/12) (2019)
 
+### 前端监控
+
+[聊聊前端监控——错误监控篇](https://github.com/KarthusLorin/blog/issues/22) (2020)
+
 ### 计算机网络
 
 [浅谈 CORS](https://github.com/KarthusLorin/blog/issues/7) (2018)
@@ -59,11 +63,11 @@
 ## 写作计划（暂定）
 
 - Vue 模板解析模块源码解析
-- Vue-cli3 源码解析
+- Vue3 源码解析
 - JavaScript 设计模式（写作中）
 - JavaScript 基础
 - 前端自动化测试（完成进度 50%）
-- 前端监控（写作中）
+- 前端监控（完成进度 33%）
 
 ## 别的据点
 
