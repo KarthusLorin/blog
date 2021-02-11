@@ -22,6 +22,8 @@
 
 ### JavaScript
 
+[浅谈浏览器实时构建](https://github.com/KarthusLorin/blog/issues/23) (2021)
+
 [浅谈 class 私有变量](https://github.com/KarthusLorin/blog/issues/11) (2018)
 
 [浅谈 JS 中的 history 对象以及路由插件原理](https://github.com/KarthusLorin/blog/issues/6) (2018)
